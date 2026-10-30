@@ -1,0 +1,14 @@
+# Python packages imported by the scripts in this repository.
+# Versions are not pinned. During a syntax check on 30 October 2026 the
+# interpreter could import numpy 2.5.1, scipy 1.18.0, and matplotlib 3.11.0.
+# netCDF4, pandas, statsmodels, colormaps, basemap, and cartopy are imported
+# by individual notebooks but were not installed in that interpreter.
+numpy
+scipy
+matplotlib
+netCDF4
+pandas
+statsmodels
+colormaps
+basemap
+cartopy
